@@ -1,8 +1,15 @@
 # Official code of Team INO for Multi-Modal Fact Verification at AAAI 2023
 A Multi-Modal Fact Verification dataset released as part of the De-Factify workshop in AAAI-23. We won the second place.
+[De-Factify workshop](https://aiisc.ai/defactify2)
 The code is being sorted out and will be uploaded within a week, please be patient
 # Usage
 # Dataset
+- A Multi-Modal Fact Verification dataset released as part of the De-Factify 2 workshop in AAAI-23
+[A Multi-Modal Fact Verification dataset](https://codalab.lisn.upsaclay.fr/competitions/8275)
+It can be directly obtained from the google drive link
+[google drive link](https://drive.google.com/drive/folders/1lJG7UWawV8sjdYC3AbAm5hB_w3YSP2rJ)
+The data set decompression password needs to be obtained by filling in the official form
+[form](https://docs.google.com/forms/d/e/1FAIpQLSfTmTUsr0LSjdvVwlGmD7a1Ek9ytIzCN8pIew1Hym0AavTbZg/viewform?usp=send_for)
 # Method Overview
 # Files Description
 # Leaderboard
