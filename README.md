@@ -4,7 +4,7 @@ A Multi-Modal Fact Verification dataset released as part of the [De-Factify work
 run code.ipynb
 # Dataset
 - [A Multi-Modal Fact Verification dataset](https://codalab.lisn.upsaclay.fr/competitions/8275) released as part of the De-Factify 2 workshop in AAAI-23.<br>  
-It can be directly obtained from the [google drive link](https://drive.google.com/drive/folders/13JwnIBzDfe8a5E1anPkt7J90r4NBIYES).<br>  
+It can be directly obtained from the [google drive link](https://drive.google.com/drive/folders/13JwnIBzDfe8a5E1anPkt7J90r4NBIYES).<br>  (Officially provided)
 The data set decompression password needs to be obtained by filling in the official [form](https://docs.google.com/forms/d/e/1FAIpQLSfTmTUsr0LSjdvVwlGmD7a1Ek9ytIzCN8pIew1Hym0AavTbZg/viewform?usp=send_for).<br>  
 # Model Overview
 <img src=model.png width="633" ><br> 
